@@ -1,2 +1,2 @@
 # CivPack
-A Minecraft resource pack for the civ genre of Minecraft servers
+A Minecraft resource pack for CivClassic
